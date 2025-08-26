@@ -1,6 +1,6 @@
 ## Hi there 👋 , my name is Arnav Sharma
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________
-![X_logo](https://github.com/user-attachments/assets/f6b24eb8-94ec-4d26-97ef-764f0ab7cb5a)
+![X_logo]([https://github.com/user-attachments/assets/f6b24eb8-94ec-4d26-97ef-764f0ab7cb5a](https://x.com/Bokinsha))
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
