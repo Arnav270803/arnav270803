@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hayarnav.xyz/](https://www.hayarnav.xyz/)
 
-- 📝 I regularly write articles on [https://www.hayarnav.xyz/](https://www.hayarnav.xyz/)
+- 📝 I regularly Update Blog on [https://www.hayarnav.xyz/](https://www.hayarnav.xyz/)
 
 - 📫 How to reach me **arnavsharma2708@gmail.com**
 
