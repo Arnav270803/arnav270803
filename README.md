@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on **Vynix**
+- 🔭 I’m currently working with **Boock.ai**
 
-- 🌱 I’m currently learning **RAG / AI Agents + Flask**
+- 🌱 I’m currently learning **RAG / AI Agents**
 
 - 👨‍💻 All of my projects are available at [https://www.hayarnav.xyz/](https://www.hayarnav.xyz/)
 
