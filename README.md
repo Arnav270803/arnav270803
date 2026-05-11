@@ -1,129 +1,71 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║              ARNAV SHARMA  ·  FULLSTACK DEVELOPER           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║    █████╗ ██████╗ ███╗   ██╗ █████╗ ██╗   ██╗           ║
-║   ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║           ║
-║   ███████║██████╔╝██╔██╗ ██║███████║██║   ██║           ║
-║   ██╔══██║██╔══██╗██║╚██╗██║██╔══██║╚██╗ ██╔╝           ║
-║   ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝            ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝             ║
-║                                                           ║
-║            FullStack Developer  ·  AI Enthusiast         ║
-╚═══════════════════════════════════════════════════════════╝
-```
+# Hey, I'm Arnav 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+products+at+Boock.ai+%F0%9F%9A%80;Learning+RAG+%2F+AI+Agents+%F0%9F%A4%96;Full+Stack+%7C+JavaScript+%7C+Python;Always+shipping%2C+always+learning.)](https://git.io/typing-svg)
+### Full Stack Developer · AI Enthusiast · Builder
+
+Currently crafting intelligent experiences at **[Boock.ai](https://boock.ai)** · Learning **RAG & AI Agents** · Shipping at **[hayarnav.xyz](https://www.hayarnav.xyz/)**
+
+<table><tr>
+<td><a href="https://twitter.com/bokinsha"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="36" /></a></td>
+<td><a href="https://www.linkedin.com/in/arnav-sharma2708/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="36" /></a></td>
+<td><a href="https://leetcode.com/u/arnavsharma2708/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28" width="36" /></a></td>
+<td><a href="https://codeforces.com/profile/27arnav08"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="28" width="36" /></a></td>
+</tr></table>
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🚀 About Me
 
-### `> whoami`
-
-```yaml
-name       : Arnav Sharma
-role       : FullStack Developer
-currently  : Boock.ai
-learning   : RAG / AI Agents
-blog       : hayarnav.xyz
-contact    : arnavsharma2708@gmail.com
-status     : open to collabs ✦
-```
-
-<br clear="right"/>
+- 🔭 Currently building with **Boock.ai**
+- 🌱 Deep-diving into **RAG pipelines & AI Agents**
+- 💻 Portfolio & Blog → [hayarnav.xyz](https://www.hayarnav.xyz/)
+- 📬 Reach me at **arnavsharma2708@gmail.com**
 
 ---
 
-### `> cat projects.log`
+## 🛠️ Tech Stack
 
-> 🔗 All my projects live at **[hayarnav.xyz](https://www.hayarnav.xyz/)**  
-> 📝 I write technical blogs — check them out at **[hayarnav.xyz](https://www.hayarnav.xyz/)**
+### Languages
+<table><tr>
+<td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/>C++</a></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript</a></td>
+<td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>Python</a></td>
+</tr></table>
 
----
+### Frontend
+<table><tr>
+<td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML5</a></td>
+<td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br/>CSS3</a></td>
+<td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/>React</a></td>
+<td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br/>Figma</a></td>
+</tr></table>
 
-### `> ls ./tech-stack`
+### Backend & Databases
+<table><tr>
+<td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/>Node.js</a></td>
+<td align="center"><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br/>Express</a></td>
+<td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/>MongoDB</a></td>
+<td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>MySQL</a></td>
+</tr></table>
 
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & DB**
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+### Tools & DevOps
+<table><tr>
+<td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br/>Docker</a></td>
+<td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</a></td>
+<td align="center"><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br/>Postman</a></td>
+</tr></table>
 
 ---
 
-### `> git log --stats`
+
+
+
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=27arnav08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27arnav08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+*"Build things. Break things. Learn everything."*
 
 </div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=27arnav08&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-### `> curl --connect arnav`
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bokinsha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-sharma2708/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/27arnav08)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arnavsharma2708/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.hayarnav.xyz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsharma2708@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════╗
-║   "Build fast. Break things. Ship more."  ║
-╚═══════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=27arnav08&label=Profile+Views&color=00d9ff&style=flat)
-
-</div>
-
