@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · AI Enthusiast · Builder
 
-Currently crafting intelligent experiences at **[Boock.ai](https://boock.ai)** · Learning **RAG & AI Agents** · Shipping at **[hayarnav.xyz](https://www.hayarnav.xyz/)**
+Currently crafting intelligent experiences at **[Boock.ai](https://boock.ai)** · Shipping at **[hayarnav.xyz](https://www.hayarnav.xyz/)**
 
 <table><tr>
 <td><a href="https://twitter.com/bokinsha"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="36" /></a></td>
