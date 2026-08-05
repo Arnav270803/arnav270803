@@ -1,0 +1,51 @@
+<svg viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="hey, i'm arnav — founding ai engineer at boock.ai">
+  <style>
+    .glow { animation: breathe 7s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .glow { animation: none; opacity: .8; } }
+    .sans { font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace; }
+  </style>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="318" rx="16"/></clipPath>
+    <pattern id="dots" x="0" y="0" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#FFFFFF"/>
+    </pattern>
+    <linearGradient id="dotfade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="0.75" stop-color="#FFFFFF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade"><rect x="0" y="0" width="1200" height="320" fill="url(#dotfade)"/></mask>
+    <radialGradient id="spot" gradientUnits="userSpaceOnUse" cx="600" cy="10" r="540">
+      <stop offset="0" stop-color="#E8B45A" stop-opacity="0.17"/>
+      <stop offset="0.45" stop-color="#E8B45A" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#E8B45A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8B45A" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E8B45A" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#E8B45A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="1198" height="318" rx="16" fill="#0A0A0A"/>
+
+  <g clip-path="url(#card)">
+    <!-- dot grid, fading out -->
+    <rect x="0" y="0" width="1200" height="320" fill="url(#dots)" opacity="0.07" mask="url(#fade)"/>
+    <!-- cinematic spotlight -->
+    <rect class="glow" x="0" y="0" width="1200" height="320" fill="url(#spot)"/>
+  </g>
+
+  <!-- type -->
+  <text x="600" y="94" text-anchor="middle" class="mono" font-size="13" letter-spacing="5" fill="#71717A">FOUNDING AI ENGINEER — BOOCK.AI</text>
+  <text x="600" y="176" text-anchor="middle" class="sans" font-size="64" font-weight="600" letter-spacing="-1.5" fill="#FAFAFA">hey, i'm arnav.</text>
+  <rect x="540" y="198" width="120" height="2" rx="1" fill="url(#goldline)"/>
+  <text x="600" y="238" text-anchor="middle" class="sans" font-size="21" fill="#A1A1AA">i teach ai agents to turn books into films.</text>
+  <text x="600" y="280" text-anchor="middle" class="mono" font-size="12.5" letter-spacing="1.5" fill="#4E4E56">multimodal orchestration · image &amp; video generation · voice &amp; sound · cloud infra</text>
+
+  <!-- hairline border -->
+  <rect x="1" y="1" width="1198" height="318" rx="16" stroke="#232329" stroke-width="1.5"/>
+</svg>
