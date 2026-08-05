@@ -8,8 +8,8 @@
   </style>
   <defs>
     <clipPath id="card"><rect x="1" y="1" width="1198" height="318" rx="16"/></clipPath>
-    <pattern id="dots" x="0" y="0" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.4" fill="#FFFFFF"/>
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF"/>
     </pattern>
     <linearGradient id="dotfade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
@@ -29,23 +29,18 @@
     </linearGradient>
   </defs>
 
-  <!-- card -->
   <rect x="1" y="1" width="1198" height="318" rx="16" fill="#0A0A0A"/>
 
   <g clip-path="url(#card)">
-    <!-- dot grid, fading out -->
-    <rect x="0" y="0" width="1200" height="320" fill="url(#dots)" opacity="0.07" mask="url(#fade)"/>
-    <!-- cinematic spotlight -->
+    <rect x="0" y="0" width="1200" height="320" fill="url(#dots)" opacity="0.045" mask="url(#fade)"/>
     <rect class="glow" x="0" y="0" width="1200" height="320" fill="url(#spot)"/>
   </g>
 
-  <!-- type -->
   <text x="600" y="94" text-anchor="middle" class="mono" font-size="13" letter-spacing="5" fill="#71717A">FOUNDING AI ENGINEER — BOOCK.AI</text>
   <text x="600" y="176" text-anchor="middle" class="sans" font-size="64" font-weight="600" letter-spacing="-1.5" fill="#FAFAFA">hey, i'm arnav.</text>
-  <rect x="540" y="198" width="120" height="2" rx="1" fill="url(#goldline)"/>
+  <rect x="525" y="198" width="150" height="2.5" rx="1.25" fill="url(#goldline)"/>
   <text x="600" y="238" text-anchor="middle" class="sans" font-size="21" fill="#A1A1AA">i teach ai agents to turn books into films.</text>
   <text x="600" y="280" text-anchor="middle" class="mono" font-size="12.5" letter-spacing="1.5" fill="#4E4E56">multimodal orchestration · image &amp; video generation · voice &amp; sound · cloud infra</text>
 
-  <!-- hairline border -->
   <rect x="1" y="1" width="1198" height="318" rx="16" stroke="#232329" stroke-width="1.5"/>
 </svg>
